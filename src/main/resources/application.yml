@@ -1,3 +1,2 @@
 sentry:
-  dsn: put your dsn here
   debug: true
